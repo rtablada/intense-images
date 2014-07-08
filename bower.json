@@ -1,0 +1,16 @@
+{
+  "name": "intense-images",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tholman/intense-images",
+  "authors": [
+    "Tim Holman <timothy.w.holman@gmail.com>"
+  ],
+  "description": "A simple library to view large images up close using simple mouse interaction, and the full screen.",
+  "main": "intense.js",
+  "keywords": [
+    "full-screen",
+    "images",
+    "zoom"
+  ],
+  "license": "MIT"
+}
